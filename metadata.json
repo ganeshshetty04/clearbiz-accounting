@@ -1,0 +1,6 @@
+{
+  "name": "Clean Business Expense Tracker",
+  "description": "Accessible business expense tracking with receipt scanning, monthly reporting, offline sync, biometric security, and AI categorization assistant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
